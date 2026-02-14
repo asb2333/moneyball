@@ -1,4 +1,4 @@
-# 🤖 AI Stock Prediction System: Multi-Agent A2A Architecture
+# Moneyball
 
 > **Kaggle 5-Day Agents Capstone Project**  
 > **Track**: Enterprise Agents  
