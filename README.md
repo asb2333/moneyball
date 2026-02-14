@@ -1,8 +1,4 @@
 # Moneyball
-
-> **Kaggle 5-Day Agents Capstone Project**  
-> **Track**: Enterprise Agents  
-
 Production-ready multi-agent stock prediction system using Google's Agent Development Kit (ADK) and A2A Protocol v0.3.0
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
