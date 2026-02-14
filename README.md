@@ -66,15 +66,6 @@ bash scripts/start_full_system.sh
 # Backend API runs on http://localhost:8000
 ```
 
-**Jupyter Notebook:**
-
-```bash
-# Launch Jupyter
-jupyter notebook
-
-# Open: notebooks/kaggle_submission_complete.ipynb
-```
-
 ---
 
 ## 🔑 API Keys Setup
