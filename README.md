@@ -23,22 +23,8 @@ A **production-grade multi-agent system** that analyzes stocks using **6 special
 - ✅ **6 Specialized Agents** working in parallel
 - ✅ **4-10 second** end-to-end analysis time
 - ✅ **Modern Next.js Frontend** with real-time visualization
-- ✅ **Production Deployment** on Google Cloud Run
-- ✅ **Comprehensive Jupyter notebook** demonstration
 
 ## 🚀 Quick Start
-
-### ☁️ Deploy to Google Cloud (Recommended)
-
-Get your system live in production in 15 minutes:
-
-```bash
-# One-command deployment
-./deploy/deploy.sh && ./deploy/deploy-vertex-ui.sh
-```
-
-See **[VERTEX_AI_DEPLOYMENT.md](VERTEX_AI_DEPLOYMENT.md)** for complete instructions.
-
 ### 💻 Run Locally
 
 **Prerequisites:**
@@ -132,7 +118,7 @@ NEWS_API_KEY=your_news_api_key_here  # Optional
 ## 📁 Project Structure
 
 ```
-agents-5days-kaggle-competition/
+iterate-hackathon/
 ├── agents/                      # A2A Agent Servers
 │   ├── fundamental_analyst_server.py
 │   ├── technical_analyst_server.py
@@ -215,11 +201,4 @@ curl http://localhost:8001/.well-known/agent-card.json
 ```bash
 python main.py --ticker AAPL
 ```
-
----
-
-## 📚 Documentation
-
-- **[VERTEX_AI_DEPLOYMENT.md](VERTEX_AI_DEPLOYMENT.md)** - Complete cloud deployment guide
-- **notebooks/kaggle_submission_complete.ipynb** - Full demonstration with live analysis
 
