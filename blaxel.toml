@@ -1,0 +1,10 @@
+name = "iterate-hackathon-stock"
+type = "sandbox"
+
+[build]
+dockerfile = "Dockerfile.root" 
+context = "."                      
+
+[runtime]
+cpu = 4
+memory = 8192
