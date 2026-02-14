@@ -27,8 +27,11 @@ wheels/
 
 # Virtual Environments
 venv/
+logs/
 ENV/
 env/
+notebooks/
+config/
 .venv
 
 # IDEs
